@@ -1,0 +1,17 @@
+.MAIN{
+    text-align: center;
+    /* background-color: rgb(40, 40, 0); */
+    width: 200px;
+    height: 200px;
+    margin: 0px auto;
+}
+.btndiv{
+    display: flex;
+    align-items: center;
+}
+.btn{
+    height: 30px;
+    width: 50px;
+    border: none;
+border-radius: 5px;
+}
